@@ -38,11 +38,11 @@ Initializes a new instance of the DocumentViewerSettings class</td></tr></table>
 <a href="#documentviewersettings-class">Back to Top</a>
 
 ## Properties
-&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="26ded69e-7789-1e72-5516-608f2476b2a9">BasePath</a></td><td>
-Gets or sets the base path where to search for the TextControl controller.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="7d29d594-0020-0880-6cce-3aa2a3d7094e">Dock</a></td><td>
-Specifies how to dock the DocumentViewer.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="1e40510c-9eff-5839-30f4-39666662309a">DocumentPath</a></td><td>
-Gets or sets the document path from where to load the document.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="07b4ad3e-a48e-95f7-9457-50fab57f607d">IsSelectionActivated</a></td><td>
-Specifies whether the selection feature is active or not.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="a8b7a4d1-062a-e6c5-8280-7c6f33979b77">ShowThumbnailPane</a></td><td>
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="BasePath.md">BasePath</a></td><td>
+Gets or sets the base path where to search for the TextControl controller.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="Dock.md">Dock</a></td><td>
+Specifies how to dock the DocumentViewer.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="DocumentPath.md">DocumentPath</a></td><td>
+Gets or sets the document path from where to load the document.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="isSelectionActivated.md">IsSelectionActivated</a></td><td>
+Specifies whether the selection feature is active or not.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="ShowThumnailPane.md">ShowThumbnailPane</a></td><td>
 Specifies whether the thumbnail view pane is visible by default.</td></tr></table>&nbsp;
 <a href="#documentviewersettings-class">Back to Top</a>
 
