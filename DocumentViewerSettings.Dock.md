@@ -36,7 +36,7 @@ member Dock : DocumentViewerSettings.DockStyle with get, set
 
 
 #### Property Value
-Type: <a href="0601ce0f-7565-7fa9-73fc-5dfb738a877b">DocumentViewerSettings.DockStyle</a>
+Type: <a href="DocumentViewerSettings.DockStyle.md">DocumentViewerSettings.DockStyle</a>
 
 ## See Also
 
