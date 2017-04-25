@@ -32,8 +32,8 @@ The DocumentViewerSettings type exposes the following members.
 
 
 ## Constructors
-&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="c8398abd-d844-2ad1-25eb-c751bbf59386">DocumentViewerSettings()</a></td><td>
-Initializes a new instance of the DocumentViewerSettings class</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="6cd02fde-0067-a4ae-4133-ffbc9bba7080">DocumentViewerSettings(DocumentViewerSettings)</a></td><td>
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td>DocumentViewerSettings()</td><td>
+Initializes a new instance of the DocumentViewerSettings class</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td>DocumentViewerSettings(DocumentViewerSettings)</td><td>
 Initializes a new instance of the DocumentViewerSettings class</td></tr></table>&nbsp;
 <a href="#documentviewersettings-class">Back to Top</a>
 
