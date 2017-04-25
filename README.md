@@ -10,7 +10,7 @@ The Beta version comes with a "go live" license and can be used within applicati
 
 The complete API documentation can be found in the GitHub page of this project:
 
-[ASP.NET MVC DOcumentViewer API Documentation](https://github.com/TextControl/TXTextControl.Web.DocumentViewer/blob/master/docs/DocumentViewerSettings.md)
+[ASP.NET MVC DocumentViewer API Documentation](https://github.com/TextControl/TXTextControl.Web.DocumentViewer/blob/master/docs/DocumentViewerSettings.md)
 
 ## Getting Started
 
