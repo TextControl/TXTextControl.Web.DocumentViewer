@@ -4,7 +4,7 @@
 
 ## Inheritance Hierarchy
 <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">System.Object</a><br />&nbsp;&nbsp;TXTextControl.Web.MVC.DocumentViewer.DocumentViewerSettings<br />
-**Namespace:**&nbsp;<a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer</a><br />**Assembly:**&nbsp;TXTextControl.Web.MVC.DocumentViewer (in TXTextControl.Web.MVC.DocumentViewer.dll) Version: 24.0.1.500 (24.0.1.500)
+**Namespace:**&nbsp;TXTextControl.Web.MVC.DocumentViewer<br />**Assembly:**&nbsp;TXTextControl.Web.MVC.DocumentViewer (in TXTextControl.Web.MVC.DocumentViewer.dll) Version: 24.0.1.500 (24.0.1.500)
 
 ## Syntax
 
