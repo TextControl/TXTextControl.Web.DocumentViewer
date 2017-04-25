@@ -42,4 +42,4 @@ Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank
 
 
 #### Reference
-<a href="75e67014-bd81-7112-0fe9-5b7cd5836236">DocumentViewerSettings Class</a><br /><a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />
+<a href="DocumentViewerSettings.md">DocumentViewerSettings Class</a>
