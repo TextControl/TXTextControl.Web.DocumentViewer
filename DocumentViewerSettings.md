@@ -62,8 +62,3 @@ Returns a string that represents the current object.
  (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr></table>&nbsp;
 <a href="#documentviewersettings-class">Back to Top</a>
 
-## See Also
-
-
-#### Reference
-<a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />
