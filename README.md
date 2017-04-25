@@ -27,4 +27,5 @@ You will find the TX Text Control DocumentViewer for ASP.NET MVC as a NuGet pack
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/TextControl/TXTextControl.Web.DocumentViewer.
-Please report issues directly on [GitHub](https://github.com/TextControl/TXTextControl.Web.DocumentViewer/issues)
+
+Please report issues directly on [GitHub](https://github.com/TextControl/TXTextControl.Web.DocumentViewer/issues).
