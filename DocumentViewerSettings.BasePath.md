@@ -42,4 +42,4 @@ Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank
 
 
 #### Reference
-<a href="75e67014-bd81-7112-0fe9-5b7cd5836236">DocumentViewerSettings Class</a>
+<a href="DocumentViewerSettings.md">DocumentViewerSettings Class</a>
