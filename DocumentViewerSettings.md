@@ -42,7 +42,7 @@ Initializes a new instance of the DocumentViewerSettings class</td></tr></table>
 Gets or sets the base path where to search for the TextControl controller.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="DocumentViewerSettings.Dock.md">Dock</a></td><td>
 Specifies how to dock the DocumentViewer.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="DocumentViewerSettings.DocumentPath.md">DocumentPath</a></td><td>
 Gets or sets the document path from where to load the document.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="DocumentViewerSettings.IsSelectionActivated.md">IsSelectionActivated</a></td><td>
-Specifies whether the selection feature is active or not.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="DocumentViewerSettings.ShowThumnailPane.md">ShowThumbnailPane</a></td><td>
+Specifies whether the selection feature is active or not.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="DocumentViewerSettings.ShowThumbnailPane.md">ShowThumbnailPane</a></td><td>
 Specifies whether the thumbnail view pane is visible by default.</td></tr></table>&nbsp;
 <a href="#documentviewersettings-class">Back to Top</a>
 
