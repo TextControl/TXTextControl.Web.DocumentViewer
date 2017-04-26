@@ -12,9 +12,9 @@ The TXDocumentViewer JavaScript object provides a public API to manipulate the d
 ## Properties
 &nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr>
 <tr>
- <td>![Public property](images/pubproperty.gif "Public property")</td>
- <td><a href="DocumentViewerSettings.BasePath.md">toggleToolbar</a></td>
- <td>Gets or sets the base path where to search for the TextControl controller.</td>
+<td>![Public property](images/pubproperty.gif "Public property")</td>
+<td><a href="DocumentViewerSettings.BasePath.md">toggleToolbar</a></td>
+<td>Gets or sets the base path where to search for the TextControl controller.</td>
 </tr>
 </table>&nbsp;
 <a href="#documentviewersettings-class">Back to Top</a>
