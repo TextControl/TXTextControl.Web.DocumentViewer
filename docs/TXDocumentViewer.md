@@ -22,9 +22,9 @@ The TXDocumentViewer JavaScript object provides a public API to manipulate the d
 ## Methods
 &nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr>
 <tr>
-<td>![Public method](images/pubmethod.gif "Public method")</td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a></td>
-<td>Determines whether the specified object is equal to the current object.</td>
+ <td>![Public method](images/pubmethod.gif "Public method")</td>
+ <td><a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a></td>
+ <td>Determines whether the specified object is equal to the current object.</td>
 </tr>
 </table>&nbsp;
 <a href="#documentviewersettings-class">Back to Top</a>
