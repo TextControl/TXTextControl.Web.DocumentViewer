@@ -1,7 +1,7 @@
 # SignatureSettings Methods
  
 
-The <a href="84aec3dc-200d-0a94-18e8-62d9b4044473">SignatureSettings</a> type exposes the following members.
+The <a href="T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings">SignatureSettings</a> type exposes the following members.
 
 
 ## Methods
@@ -24,4 +24,4 @@ Returns a string that represents the current object.
 
 
 #### Reference
-<a href="84aec3dc-200d-0a94-18e8-62d9b4044473">SignatureSettings Class</a><br /><a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />
+<a href="T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings">SignatureSettings Class</a><br /><a href="N_TXTextControl_Web_MVC_DocumentViewer">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />

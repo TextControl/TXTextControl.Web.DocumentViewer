@@ -1,7 +1,7 @@
 # DocumentViewerSettings Methods
  
 
-The <a href="75e67014-bd81-7112-0fe9-5b7cd5836236">DocumentViewerSettings</a> type exposes the following members.
+The <a href="T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings">DocumentViewerSettings</a> type exposes the following members.
 
 
 ## Methods
@@ -24,4 +24,4 @@ Returns a string that represents the current object.
 
 
 #### Reference
-<a href="75e67014-bd81-7112-0fe9-5b7cd5836236">DocumentViewerSettings Class</a><br /><a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />
+<a href="T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings">DocumentViewerSettings Class</a><br /><a href="N_TXTextControl_Web_MVC_DocumentViewer">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />

@@ -1,7 +1,7 @@
 # DocumentViewerSettings.DockStyle Enumeration
  
 
-**Namespace:**&nbsp;<a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer</a><br />**Assembly:**&nbsp;TXTextControl.Web.MVC.DocumentViewer (in TXTextControl.Web.MVC.DocumentViewer.dll) Version: 27.0.6.500 (27.0.6.500)
+**Namespace:**&nbsp;<a href="N_TXTextControl_Web_MVC_DocumentViewer">TXTextControl.Web.MVC.DocumentViewer</a><br />**Assembly:**&nbsp;TXTextControl.Web.MVC.DocumentViewer (in TXTextControl.Web.MVC.DocumentViewer.dll) Version: 27.0.6.500 (27.0.6.500)
 
 ## Syntax
 
@@ -23,4 +23,4 @@ Public Enumeration DockStyle
 
 
 #### Reference
-<a href="c03e00cd-e5cb-0263-89a5-d3d19b314bf7">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />
+<a href="N_TXTextControl_Web_MVC_DocumentViewer">TXTextControl.Web.MVC.DocumentViewer Namespace</a><br />
