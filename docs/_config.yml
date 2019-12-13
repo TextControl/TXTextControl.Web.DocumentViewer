@@ -4,4 +4,4 @@ relative_links:
   enabled: true
   collections: true
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
