@@ -8,13 +8,7 @@ The DocumentViewer is available for all TX Text Control .NET Server for ASP.NET 
 
 The complete API documentation can be found in the GitHub page of this project:
 
-[ASP.NET MVC DocumentViewer API Documentation](https://github.com/TextControl/TXTextControl.Web.DocumentViewer/blob/master/docs/DocumentViewerSettings.md)
-
-## JavaScript API Documentation
-
-The complete API documentation can be found in the GitHub page of this project:
-
-[JavaScript DocumentViewer API Documentation](https://github.com/TextControl/TXTextControl.Web.DocumentViewer/blob/master/docs/TXDocumentViewer.md)
+[ASP.NET MVC DocumentViewer API Documentation](https://textcontrol.github.io/TXTextControl.Web.DocumentViewer/html/N_TXTextControl_Web_MVC_DocumentViewer.htm)
 
 ## Getting Started
 
