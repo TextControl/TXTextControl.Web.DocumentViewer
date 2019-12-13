@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="BasePath property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_BasePath.htm" />
+  <HelpKINode Title="Dock property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_Dock.htm" />
+  <HelpKINode Title="DocumentData property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DocumentData.htm" />
+  <HelpKINode Title="DocumentPath property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DocumentPath.htm" />
+  <HelpKINode Title="DocumentViewerSettings class">
+    <HelpKINode Title="DocumentViewerSettings Class" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentViewerSettings.BasePath property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_BasePath.htm" />
+  <HelpKINode Title="DocumentViewerSettings.Dock property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_Dock.htm" />
+  <HelpKINode Title="DocumentViewerSettings.DockStyle enumeration" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DockStyle.htm" />
+  <HelpKINode Title="DocumentViewerSettings.DocumentData property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DocumentData.htm" />
+  <HelpKINode Title="DocumentViewerSettings.DocumentPath property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DocumentPath.htm" />
+  <HelpKINode Title="DocumentViewerSettings.DocumentViewerSettings constructor" Url="html/Overload_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings__ctor.htm" />
+  <HelpKINode Title="DocumentViewerSettings.IsSelectionActivated property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_IsSelectionActivated.htm" />
+  <HelpKINode Title="DocumentViewerSettings.ResourceManager property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ResourceManager.htm" />
+  <HelpKINode Title="DocumentViewerSettings.ShowThumbnailPane property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ShowThumbnailPane.htm" />
+  <HelpKINode Title="DocumentViewerSettings.SignatureSettings property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_SignatureSettings.htm" />
+  <HelpKINode Title="DocumentViewerSettings.ToolbarDocked property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ToolbarDocked.htm" />
+  <HelpKINode Title="Fill enumeration member" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DockStyle.htm" />
+  <HelpKINode Title="IsSelectionActivated property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_IsSelectionActivated.htm" />
+  <HelpKINode Title="OwnerName property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_OwnerName.htm" />
+  <HelpKINode Title="RedirectUrlAfterSignature property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_RedirectUrlAfterSignature.htm" />
+  <HelpKINode Title="ResourceManager property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ResourceManager.htm" />
+  <HelpKINode Title="ShowSignatureBar property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_ShowSignatureBar.htm" />
+  <HelpKINode Title="ShowThumbnailPane property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ShowThumbnailPane.htm" />
+  <HelpKINode Title="SignatureBoxName property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignatureBoxName.htm" />
+  <HelpKINode Title="SignatureSettings class">
+    <HelpKINode Title="SignatureSettings Class" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SignatureSettings property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_SignatureSettings.htm" />
+  <HelpKINode Title="SignatureSettings.OwnerName property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_OwnerName.htm" />
+  <HelpKINode Title="SignatureSettings.RedirectUrlAfterSignature property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_RedirectUrlAfterSignature.htm" />
+  <HelpKINode Title="SignatureSettings.ShowSignatureBar property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_ShowSignatureBar.htm" />
+  <HelpKINode Title="SignatureSettings.SignatureBoxName property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignatureBoxName.htm" />
+  <HelpKINode Title="SignatureSettings.SignatureSettings constructor" Url="html/M_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings__ctor.htm" />
+  <HelpKINode Title="SignatureSettings.SignerInitials property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignerInitials.htm" />
+  <HelpKINode Title="SignatureSettings.SignerName property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignerName.htm" />
+  <HelpKINode Title="SignatureSettings.UniqueId property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_UniqueId.htm" />
+  <HelpKINode Title="SignerInitials property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignerInitials.htm" />
+  <HelpKINode Title="SignerName property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignerName.htm" />
+  <HelpKINode Title="ToolbarDocked property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ToolbarDocked.htm" />
+  <HelpKINode Title="TXTextControl.Web.MVC.DocumentViewer namespace" Url="html/N_TXTextControl_Web_MVC_DocumentViewer.htm" />
+  <HelpKINode Title="TXTextControl.Web.MVC.DocumentViewer.DocumentViewerSettings class" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm" />
+  <HelpKINode Title="TXTextControl.Web.MVC.DocumentViewer.DocumentViewerSettings.DockStyle enumeration" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DockStyle.htm" />
+  <HelpKINode Title="TXTextControl.Web.MVC.DocumentViewer.SignatureSettings class" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm" />
+  <HelpKINode Title="UniqueId property" Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_UniqueId.htm" />
+  <HelpKINode Title="Window enumeration member" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DockStyle.htm" />
+</HelpKI>

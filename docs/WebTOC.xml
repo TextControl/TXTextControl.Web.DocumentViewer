@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="702cd064-ea0c-4c8a-875c-10872246e437" Title="TXTextControl.Web.MVC.DocumentViewer" Url="html/N_TXTextControl_Web_MVC_DocumentViewer.htm">
+    <HelpTOCNode Id="a93aada6-12fb-4f61-b76f-c5e392e9934d" Title="DocumentViewerSettings Class" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm">
+      <HelpTOCNode Id="9ab8d738-7259-4291-bdee-46c35bf69c2a" Title="DocumentViewerSettings Constructor " Url="html/Overload_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings__ctor.htm">
+        <HelpTOCNode Title="DocumentViewerSettings Constructor " Url="html/M_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings__ctor.htm" />
+        <HelpTOCNode Title="DocumentViewerSettings Constructor (DocumentViewerSettings)" Url="html/M_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="392e1222-db55-4d02-ab89-5f2202341bf5" Title="DocumentViewerSettings Properties" Url="html/Properties_T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm">
+        <HelpTOCNode Title="BasePath Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_BasePath.htm" />
+        <HelpTOCNode Title="Dock Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_Dock.htm" />
+        <HelpTOCNode Title="DocumentData Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DocumentData.htm" />
+        <HelpTOCNode Title="DocumentPath Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DocumentPath.htm" />
+        <HelpTOCNode Title="IsSelectionActivated Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_IsSelectionActivated.htm" />
+        <HelpTOCNode Title="ResourceManager Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ResourceManager.htm" />
+        <HelpTOCNode Title="ShowThumbnailPane Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ShowThumbnailPane.htm" />
+        <HelpTOCNode Title="SignatureSettings Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_SignatureSettings.htm" />
+        <HelpTOCNode Title="ToolbarDocked Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_ToolbarDocked.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DocumentViewerSettings Methods" Url="html/Methods_T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="DocumentViewerSettings.DockStyle Enumeration" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_DocumentViewerSettings_DockStyle.htm" />
+    <HelpTOCNode Id="7206c3e9-5c2a-47b9-854b-9cc773e03dbf" Title="SignatureSettings Class" Url="html/T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm">
+      <HelpTOCNode Title="SignatureSettings Constructor " Url="html/M_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings__ctor.htm" />
+      <HelpTOCNode Id="39953d0d-e14c-4f91-92be-1590e599a8ce" Title="SignatureSettings Properties" Url="html/Properties_T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm">
+        <HelpTOCNode Title="OwnerName Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_OwnerName.htm" />
+        <HelpTOCNode Title="RedirectUrlAfterSignature Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_RedirectUrlAfterSignature.htm" />
+        <HelpTOCNode Title="ShowSignatureBar Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_ShowSignatureBar.htm" />
+        <HelpTOCNode Title="SignatureBoxName Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignatureBoxName.htm" />
+        <HelpTOCNode Title="SignerInitials Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignerInitials.htm" />
+        <HelpTOCNode Title="SignerName Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_SignerName.htm" />
+        <HelpTOCNode Title="UniqueId Property " Url="html/P_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings_UniqueId.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SignatureSettings Methods" Url="html/Methods_T_TXTextControl_Web_MVC_DocumentViewer_SignatureSettings.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
